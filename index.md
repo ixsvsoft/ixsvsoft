@@ -1,6 +1,3 @@
-### 相招
-						
-
 # 相招
 
 # 						官方下载链接 [app.apk](http://ixsv.com/app.apk) 
