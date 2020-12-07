@@ -1,4 +1,4 @@
-# 相招
+# IXSVSOFT
 
 # 						官方下载链接 [相招](http://ixsv.com/app.apk) 
 
@@ -22,7 +22,7 @@
 
 
 
-# Copyright © 2020-2020 相招  ixsv.com All Rights Reserved. [豫ICP备19033361号-1](https://beian.miit.gov.cn/).
+# Copyright © 2020-2020 ixsv.com All Rights Reserved.
 
 
 
