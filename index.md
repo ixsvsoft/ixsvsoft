@@ -1,4 +1,4 @@
-# 						官方下载链接 [相招](http://ixsv.com/app.apk) 
+# 						相招官方下载链接 [相招](http://ixsv.com/app.apk) 
 
 #                             相招APP，我的页面
 
